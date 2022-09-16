@@ -40,7 +40,7 @@
 body,
 html {
   color: #a9adb8;
-  background-color: #0a101e;
+  background-color: #000000;
   font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -477,7 +477,7 @@ a:hover {
 }
 
 .st-dark-bg {
-  background-color: #070d1b;
+  background-color: #000000;
 }
 
 .st-gray-bg {
@@ -526,7 +526,7 @@ hr {
 5. Header
 ----------------------------------------------------------------*/
 .st-site-header.st-style1 {
-  background-color: rgba(7, 13, 27, 0.9);
+  background-color: rgba(0, 0, 0, 0.9);
   -webkit-box-shadow: 0 10px 10px -10px rgba(7, 13, 27, 0.1);
           box-shadow: 0 10px 10px -10px rgba(7, 13, 27, 0.1);
   -webkit-transition: all 0.4s ease;
@@ -555,7 +555,7 @@ hr {
 }
 
 .st-site-header.st-style1.st-sticky-active {
-  background-color: #070d1b;
+  background-color: #000000;
   -webkit-box-shadow: 0 10px 10px -10px rgba(7, 13, 27, 0.1);
           box-shadow: 0 10px 10px -10px rgba(7, 13, 27, 0.1);
 }
@@ -565,7 +565,7 @@ hr {
     max-width: 100%;
   }
   .st-site-header.st-style1 {
-    background-color: #070d1b;
+    background-color: #000000;
   }
 }
 
@@ -677,7 +677,7 @@ hr {
     position: absolute;
     width: 100vw;
     left: 0;
-    background-color: #070d1b;
+    background-color: #000000;
     padding: 10px 0;
     display: none;
     top: 100%;
@@ -714,7 +714,7 @@ hr {
   .st-munu-toggle span:after {
     width: 100%;
     height: 2px;
-    background-color: #666;
+    background-color: rgb(255, 255, 255);
     display: block;
   }
   .st-munu-toggle span {
@@ -800,7 +800,7 @@ hr {
 @media screen and (min-width: 991px) {
   .st-site-header.st-style2 {
     width: 300px;
-    background: #070d1b;
+    background: #000000;
     height: 100vh;
     border-right: 1px solid #101624;
     overflow: auto;
@@ -835,7 +835,7 @@ hr {
     width: 299px;
     left: 0;
     bottom: 0;
-    background-color: #070d1b;
+    background-color: #000000;
   }
   .st-site-header.st-style2 .st-social-btn.st-style1 {
     position: fixed;
@@ -886,7 +886,7 @@ hr {
     display: none !important;
   }
   .st-site-header.st-style2 {
-    background-color: #070d1b;
+    background-color: #000000;
     border-bottom: 1px solid #101624;
   }
   .st-site-header.st-style2 .st-nav {
@@ -920,7 +920,7 @@ hr {
 .st-hero-wrap {
   position: relative;
   height: 850px;
-  background-color: #070d1b;
+  background-color: #000000;
 }
 
 .st-hero-wrap img {
@@ -981,7 +981,7 @@ hr {
 }
 
 .st-social-group {
-  background-color: #101624;
+  background-color: #000000;
   border: 1px solid #232935;
   border-right: 0;
   border-radius: 50px 0 0 50px;
@@ -1013,7 +1013,7 @@ hr {
   text-align: center;
   position: relative;
   overflow: hidden;
-  background-color: #070d1b;
+  background-color: #000000;
 }
 
 .st-hero.st-style2 .container {
@@ -1450,7 +1450,7 @@ canvas {
 .st-section-heading.st-style1 .st-section-heading-title::before {
   content: "";
   position: absolute;
-  background-color: #3f4551;
+  background-color: #000000;
   width: 170px;
   height: 2px;
   bottom: -16px;
@@ -1507,7 +1507,7 @@ canvas {
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
   border: 1px solid #232935;
-  background-color: #101624;
+  background-color: #000000;
 }
 
 .st-iconbox.st-style1:hover .st-iconbox-icon {
@@ -1536,7 +1536,7 @@ canvas {
   width: 90px;
   border: 0.5px solid #3f4551;
   border-radius: 50%;
-  background-color: #070d1b;
+  background-color: #000000;
   margin: auto;
   font-size: 50px;
   margin-bottom: 28px;
@@ -1589,7 +1589,7 @@ canvas {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: #3f4551;
+  background-color: #000000;
   opacity: 0;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
@@ -1723,7 +1723,7 @@ canvas {
   color: #a9adb8;
   padding: 12px 20px;
   border: 1px solid #232935;
-  background-color: #101624;
+  background-color: #000000;
   height: 52px;
   border-radius: 7px;
   -webkit-transition: all .4s ease;
@@ -1791,7 +1791,7 @@ canvas {
           align-items: center;
   border: 0.5px solid #3f4551;
   border-radius: 50%;
-  background-color: #070d1b;
+  background-color: #000000;
   width: 50px;
   height: 50px;
   margin-right: 20px;
@@ -1840,7 +1840,7 @@ canvas {
 
 .st-social-link .st-social-btn {
   border-radius: 50px;
-  background-color: #070d1b;
+  background-color: #000000;
   border: 0.5px solid #3f4551;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
